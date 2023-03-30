@@ -1,2 +1,2 @@
-# php-wsl
-A collection of WSL images for use with PHP development.
+# wsl-php
+A collection of WSL images and tools for PHP development.
